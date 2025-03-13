@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Page-1" id="Bbe1r4yJzpWkFwykBEAs">
     <mxGraphModel dx="954" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,52 +43,52 @@
         <mxCell id="dxULG-Z5umUymMzxL-Sg-16" value="Generate/Out" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="490" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0Dzy3W4TfuY-f4yHPvCH-6" value="Obstacle position&lt;div&gt;Robot position&lt;/div&gt;&lt;div&gt;Vip ball position&lt;/div&gt;&lt;div&gt;ball recognition&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0Dzy3W4TfuY-f4yHPvCH-6" value="&lt;div&gt;&lt;div&gt;- Robot position&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Ball recognition&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Obstacle position&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Vip ball position&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="90" width="180" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="LNn6GQjA4AxwgEIGZr4C-2" value="- Generate raw graph with ball positions as nodes and vectors between them as edges with distance as cost&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;- Delete edges intersecting the obstacles&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Deduct cost from edges involving the VIP Ball&lt;br&gt;&lt;br&gt;&lt;br&gt;- Run Dijkstra&#39;s Algorithm and generate the cheapest path&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LNn6GQjA4AxwgEIGZr4C-2" value="- Generate raw graph with ball positions as nodes and vectors between them as edges with distance as cost&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;- Delete edges intersecting the obstacles&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Deduct cost from edges involving the VIP Ball&lt;br&gt;&lt;br&gt;&lt;br&gt;- Run Dijkstra&#39;s Algorithm and generate the cheapest path&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="120" width="180" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="0Dzy3W4TfuY-f4yHPvCH-7" value="Obstacle position&lt;div&gt;Robot position&lt;/div&gt;&lt;div&gt;Vip ball position&lt;/div&gt;&lt;div&gt;ball recognition&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0Dzy3W4TfuY-f4yHPvCH-7" value="&lt;div&gt;&lt;div&gt;Generate a graph based on the Robot&#39;s position to know it&#39;s current position.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Find positions of all balls to make a pattern.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Sweep around the obstacle to check for any balls.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If VIP and another ball are near each other, grab vip ball first or them both?&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="90" width="180" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="LNn6GQjA4AxwgEIGZr4C-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="LNn6GQjA4AxwgEIGZr4C-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="709.5" y="205" as="sourcePoint" />
             <mxPoint x="710" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0Dzy3W4TfuY-f4yHPvCH-10" value="In" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0Dzy3W4TfuY-f4yHPvCH-10" value="In" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="90" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LNn6GQjA4AxwgEIGZr4C-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="LNn6GQjA4AxwgEIGZr4C-5" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="245" as="sourcePoint" />
             <mxPoint x="620" y="244.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0Dzy3W4TfuY-f4yHPvCH-11" value="Generate/Out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0Dzy3W4TfuY-f4yHPvCH-11" value="Generate/Out" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="90" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LNn6GQjA4AxwgEIGZr4C-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="LNn6GQjA4AxwgEIGZr4C-7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="170" as="sourcePoint" />
             <mxPoint x="620" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LNn6GQjA4AxwgEIGZr4C-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="LNn6GQjA4AxwgEIGZr4C-8" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="320" as="sourcePoint" />
             <mxPoint x="620" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LNn6GQjA4AxwgEIGZr4C-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="LNn6GQjA4AxwgEIGZr4C-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="709.5" y="270" as="sourcePoint" />
             <mxPoint x="709.5" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LNn6GQjA4AxwgEIGZr4C-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="LNn6GQjA4AxwgEIGZr4C-10" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="709.5" y="330" as="sourcePoint" />
             <mxPoint x="709.5" y="350" as="targetPoint" />
