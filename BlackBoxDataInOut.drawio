@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Page-1" id="Bbe1r4yJzpWkFwykBEAs">
-    <mxGraphModel dx="808" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -244,17 +244,62 @@
         <mxCell id="7c7KWl_TCWhdrHvQh6D_-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2Ixo7VG__NAE8XxnjBKn-3" value="Robot position in world coordinates" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2Ixo7VG__NAE8XxnjBKn-3" value="Robot position in world coordinates" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2Ixo7VG__NAE8XxnjBKn-5" value="Robot direction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2Ixo7VG__NAE8XxnjBKn-5" value="Robot direction" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2Ixo7VG__NAE8XxnjBKn-7" value="&lt;div&gt;Calculate the distance from the robot position to the nearest border. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="245" y="1195" width="140" height="90" as="geometry" />
+        <mxCell id="2Ixo7VG__NAE8XxnjBKn-7" value="&lt;div&gt;Calculate the distance from the robot position to the nearest border. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1160" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="2Ixo7VG__NAE8XxnjBKn-8" value="&lt;div&gt;Returns the distance from the edges of the robot to the nearest border&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="245" y="1300" width="140" height="90" as="geometry" />
+        <mxCell id="2Ixo7VG__NAE8XxnjBKn-8" value="&lt;div&gt;Returns the distance from the edges of the robot to the nearest border&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="245" y="1250" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0yFKVJ_loFs17W7_M5Id-3" value="Change direction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1520" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0yFKVJ_loFs17W7_M5Id-4" value="Generate/Out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1570" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0yFKVJ_loFs17W7_M5Id-5" value="In&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2240%22%20y%3D%2290%22%20width%3D%22180%22%20height%3D%22310%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1570" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0yFKVJ_loFs17W7_M5Id-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1600" width="180" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="0yFKVJ_loFs17W7_M5Id-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1600" width="180" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="0yFKVJ_loFs17W7_M5Id-10" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr data-end=&quot;277&quot; data-start=&quot;213&quot;&gt;&lt;td&gt;Robot position&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr data-end=&quot;319&quot; data-start=&quot;278&quot;&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0yFKVJ_loFs17W7_M5Id-11" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr data-end=&quot;169&quot; data-start=&quot;118&quot;&gt;&lt;td&gt;Determine ball&#39;s position relative to the robot&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr data-end=&quot;228&quot; data-start=&quot;170&quot;&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0yFKVJ_loFs17W7_M5Id-12" value="&lt;table&gt;&lt;tbody&gt;&lt;tr data-end=&quot;363&quot; data-start=&quot;293&quot;&gt;&lt;td&gt;Ball position&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr data-end=&quot;409&quot; data-start=&quot;364&quot;&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0yFKVJ_loFs17W7_M5Id-13" value="&lt;table&gt;&lt;tbody&gt;&lt;tr data-end=&quot;409&quot; data-start=&quot;364&quot;&gt;&lt;td&gt;Robot direction&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr data-end=&quot;474&quot; data-start=&quot;410&quot;&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0yFKVJ_loFs17W7_M5Id-14" value="&lt;table&gt;&lt;tbody&gt;&lt;tr data-end=&quot;474&quot; data-start=&quot;410&quot;&gt;&lt;td&gt;Obstacle positions&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0yFKVJ_loFs17W7_M5Id-15" value="&lt;div class=&quot;overflow-x-auto contain-inline-size&quot;&gt;&lt;table data-end=&quot;533&quot; data-start=&quot;144&quot;&gt;&lt;tbody data-end=&quot;533&quot; data-start=&quot;194&quot;&gt;&lt;tr data-end=&quot;533&quot; data-start=&quot;475&quot;&gt;&lt;td&gt;Current path&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;p data-is-only-node=&quot;&quot; data-is-last-node=&quot;&quot; data-end=&quot;616&quot; data-start=&quot;535&quot;&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0yFKVJ_loFs17W7_M5Id-16" value="&lt;table&gt;&lt;tbody&gt;&lt;tr data-end=&quot;228&quot; data-start=&quot;170&quot;&gt;&lt;td&gt;Compute angle between the robot&#39;s direction and the ball position&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr data-end=&quot;256&quot; data-start=&quot;229&quot;&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1690" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0yFKVJ_loFs17W7_M5Id-17" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr data-end=&quot;256&quot; data-start=&quot;229&quot;&gt;&lt;td&gt;Rotate to face the ball&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr data-end=&quot;291&quot; data-start=&quot;257&quot;&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0yFKVJ_loFs17W7_M5Id-18" value="Detect obtascles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0yFKVJ_loFs17W7_M5Id-19" value="&lt;div class=&quot;overflow-x-auto contain-inline-size&quot;&gt;&lt;table data-end=&quot;335&quot; data-start=&quot;76&quot;&gt;&lt;tbody data-end=&quot;335&quot; data-start=&quot;118&quot;&gt;&lt;tr data-end=&quot;335&quot; data-start=&quot;292&quot;&gt;&lt;td&gt;&lt;br&gt;Recalculate path to ball after rotation&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;br&gt;&lt;p data-is-only-node=&quot;&quot; data-is-last-node=&quot;&quot; data-end=&quot;402&quot; data-start=&quot;337&quot;&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1940" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
