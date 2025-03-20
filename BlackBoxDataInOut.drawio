@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.1">
   <diagram name="Page-1" id="Bbe1r4yJzpWkFwykBEAs">
-    <mxGraphModel dx="1468" dy="931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="808" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,139 +37,139 @@
         <mxCell id="0Dzy3W4TfuY-f4yHPvCH-11" value="Generate/Out" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="90" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-2" value="Path Finding" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-2" value="Path Finding" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="30" width="700" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="110" width="340" height="1850" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-4" value="In&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2240%22%20y%3D%2290%22%20width%3D%22180%22%20height%3D%22310%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-4" value="In&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2240%22%20y%3D%2290%22%20width%3D%22180%22%20height%3D%22310%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="80" width="340" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-5" value="Generate/Out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-5" value="Generate/Out" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1150" y="80" width="360" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1150" y="110" width="360" height="1850" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-13" value="Ball positions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-13" value="Ball positions" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-14" value="Obstacle positions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-14" value="Obstacle positions" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-15" value="VIP Ball Position" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-15" value="VIP Ball Position" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-16" value="Obstacle Proportions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-16" value="Obstacle Proportions" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DDUUeOmppz7c4L_qVmri-17" target="DDUUeOmppz7c4L_qVmri-18">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DDUUeOmppz7c4L_qVmri-17" target="DDUUeOmppz7c4L_qVmri-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-17" value="Generate beeline path to VIP Ball and nearest goal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-17" value="Generate beeline path to VIP Ball and nearest goal" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1270" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DDUUeOmppz7c4L_qVmri-18" target="DDUUeOmppz7c4L_qVmri-19">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DDUUeOmppz7c4L_qVmri-18" target="DDUUeOmppz7c4L_qVmri-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-18" value="Generate raw graph with the remaining ball positions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-18" value="Generate raw graph with the remaining ball positions" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1270" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DDUUeOmppz7c4L_qVmri-19" target="DDUUeOmppz7c4L_qVmri-22">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DDUUeOmppz7c4L_qVmri-19" target="DDUUeOmppz7c4L_qVmri-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-19" value="Generate three clusters of balls of maximum four balls with balls as nodes and the vectors between them as edges" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-19" value="Generate three clusters of balls of maximum four balls with balls as nodes and the vectors between them as edges" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1260" y="340" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DDUUeOmppz7c4L_qVmri-20" target="DDUUeOmppz7c4L_qVmri-23">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DDUUeOmppz7c4L_qVmri-20" target="DDUUeOmppz7c4L_qVmri-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-20" value="Run Dijkstra&#39;s Algorithm on the chosen cluster" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-20" value="Run Dijkstra&#39;s Algorithm on the chosen cluster" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1270" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DDUUeOmppz7c4L_qVmri-21" target="DDUUeOmppz7c4L_qVmri-20">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DDUUeOmppz7c4L_qVmri-21" target="DDUUeOmppz7c4L_qVmri-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-21" value="Delete edges intersecting a circle of diameter 5 centimeters of an obstacle position" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-21" value="Delete edges intersecting a circle of diameter 5 centimeters of an obstacle position" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1260" y="560" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DDUUeOmppz7c4L_qVmri-22" target="DDUUeOmppz7c4L_qVmri-21">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DDUUeOmppz7c4L_qVmri-22" target="DDUUeOmppz7c4L_qVmri-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-22" value="Generate beeline to the nearest cluster to the robot&#39;s position" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-22" value="Generate beeline to the nearest cluster to the robot&#39;s position" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1270" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DDUUeOmppz7c4L_qVmri-23" target="DDUUeOmppz7c4L_qVmri-32">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DDUUeOmppz7c4L_qVmri-23" target="DDUUeOmppz7c4L_qVmri-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-23" value="Generate beeline to the small goal upon completion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-23" value="Generate beeline to the small goal upon completion" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1270" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DDUUeOmppz7c4L_qVmri-24" target="DDUUeOmppz7c4L_qVmri-27">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DDUUeOmppz7c4L_qVmri-24" target="DDUUeOmppz7c4L_qVmri-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-24" value="Run Dijkstra&#39;s Algorithm on the chosen cluster" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-24" value="Run Dijkstra&#39;s Algorithm on the chosen cluster" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1270" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DDUUeOmppz7c4L_qVmri-25" target="DDUUeOmppz7c4L_qVmri-24">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DDUUeOmppz7c4L_qVmri-25" target="DDUUeOmppz7c4L_qVmri-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-25" value="Delete edges intersecting a circle of diameter 5 centimeters of an obstacle position" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-25" value="Delete edges intersecting a circle of diameter 5 centimeters of an obstacle position" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1260" y="1100" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DDUUeOmppz7c4L_qVmri-26" target="DDUUeOmppz7c4L_qVmri-25">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DDUUeOmppz7c4L_qVmri-26" target="DDUUeOmppz7c4L_qVmri-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-26" value="Generate beeline to the nearest cluster to the robot&#39;s position" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-26" value="Generate beeline to the nearest cluster to the robot&#39;s position" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1270" y="990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DDUUeOmppz7c4L_qVmri-27" target="DDUUeOmppz7c4L_qVmri-30">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DDUUeOmppz7c4L_qVmri-27" target="DDUUeOmppz7c4L_qVmri-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-27" value="Generate beeline to the small goal upon completion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-27" value="Generate beeline to the small goal upon completion" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1270" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DDUUeOmppz7c4L_qVmri-28" target="DDUUeOmppz7c4L_qVmri-31">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DDUUeOmppz7c4L_qVmri-28" target="DDUUeOmppz7c4L_qVmri-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-28" value="Run Dijkstra&#39;s Algorithm on the chosen cluster" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-28" value="Run Dijkstra&#39;s Algorithm on the chosen cluster" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1270" y="1680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DDUUeOmppz7c4L_qVmri-29" target="DDUUeOmppz7c4L_qVmri-28">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DDUUeOmppz7c4L_qVmri-29" target="DDUUeOmppz7c4L_qVmri-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-29" value="Delete edges intersecting a circle of diameter 5 centimeters of an obstacle position" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-29" value="Delete edges intersecting a circle of diameter 5 centimeters of an obstacle position" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1260" y="1540" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DDUUeOmppz7c4L_qVmri-30" target="DDUUeOmppz7c4L_qVmri-29">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DDUUeOmppz7c4L_qVmri-30" target="DDUUeOmppz7c4L_qVmri-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-30" value="Generate beeline to the remaining cluster to the robot&#39;s position" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-30" value="Generate beeline to the remaining cluster to the robot&#39;s position" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1270" y="1430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-31" value="Generate beeline to the small goal upon completion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-31" value="Generate beeline to the small goal upon completion" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1270" y="1790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DDUUeOmppz7c4L_qVmri-32" target="DDUUeOmppz7c4L_qVmri-26">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DDUUeOmppz7c4L_qVmri-32" target="DDUUeOmppz7c4L_qVmri-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-32" value="Generate two new clusters upon delivery of the first cluster" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-32" value="Generate two new clusters upon delivery of the first cluster" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1270" y="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-50" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="DDUUeOmppz7c4L_qVmri-17">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-50" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="DDUUeOmppz7c4L_qVmri-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1030" y="160" as="sourcePoint" />
             <mxPoint x="1080" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="DDUUeOmppz7c4L_qVmri-18">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="DDUUeOmppz7c4L_qVmri-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1030" y="270" as="sourcePoint" />
             <mxPoint x="1080" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-52" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DDUUeOmppz7c4L_qVmri-16" target="DDUUeOmppz7c4L_qVmri-14">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-52" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="DDUUeOmppz7c4L_qVmri-16" target="DDUUeOmppz7c4L_qVmri-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="920" y="610" as="sourcePoint" />
             <mxPoint x="970" y="560" as="targetPoint" />
@@ -178,71 +178,83 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="DDUUeOmppz7c4L_qVmri-21">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-53" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="DDUUeOmppz7c4L_qVmri-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1030" y="600" as="sourcePoint" />
             <mxPoint x="1020" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-54" value="Updated ball posttions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-54" value="Updated ball posttions" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DDUUeOmppz7c4L_qVmri-54" target="DDUUeOmppz7c4L_qVmri-32">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="DDUUeOmppz7c4L_qVmri-54" target="DDUUeOmppz7c4L_qVmri-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1040" y="930" as="sourcePoint" />
             <mxPoint x="1090" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-60" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="DDUUeOmppz7c4L_qVmri-25">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-60" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" target="DDUUeOmppz7c4L_qVmri-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1030" y="600" as="sourcePoint" />
             <mxPoint x="1080" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-62" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="DDUUeOmppz7c4L_qVmri-29">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-62" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" target="DDUUeOmppz7c4L_qVmri-29" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1030" y="600" as="sourcePoint" />
             <mxPoint x="1080" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-63" value="Updated ball posttions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-63" value="Updated ball posttions" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="1430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DDUUeOmppz7c4L_qVmri-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DDUUeOmppz7c4L_qVmri-63">
+        <mxCell id="DDUUeOmppz7c4L_qVmri-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="DDUUeOmppz7c4L_qVmri-63" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1040" y="1470" as="sourcePoint" />
             <mxPoint x="1270" y="1460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7c7KWl_TCWhdrHvQh6D_-3" value="Determine initial position of the robot on the coordinate system&amp;nbsp;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7c7KWl_TCWhdrHvQh6D_-3" value="Determine initial position of the robot on the coordinate system&amp;nbsp;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7c7KWl_TCWhdrHvQh6D_-4" value="Robot position" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7c7KWl_TCWhdrHvQh6D_-4" value="Robot position" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7c7KWl_TCWhdrHvQh6D_-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="7c7KWl_TCWhdrHvQh6D_-4" target="7c7KWl_TCWhdrHvQh6D_-3">
+        <mxCell id="7c7KWl_TCWhdrHvQh6D_-5" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="7c7KWl_TCWhdrHvQh6D_-4" target="7c7KWl_TCWhdrHvQh6D_-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="170" as="sourcePoint" />
             <mxPoint x="230" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7c7KWl_TCWhdrHvQh6D_-6" value="VIP Ball Recognition" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7c7KWl_TCWhdrHvQh6D_-6" value="VIP Ball Recognition" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7c7KWl_TCWhdrHvQh6D_-7" value="Determine VIP ball&#39;s position" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7c7KWl_TCWhdrHvQh6D_-7" value="Determine VIP ball&#39;s position" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7c7KWl_TCWhdrHvQh6D_-8" value="Ball recognition" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7c7KWl_TCWhdrHvQh6D_-8" value="Ball recognition" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7c7KWl_TCWhdrHvQh6D_-9" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Find positions of all balls to make a set of coordinates.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7c7KWl_TCWhdrHvQh6D_-9" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Find positions of all balls to make a set of coordinates.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7c7KWl_TCWhdrHvQh6D_-11" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;Find positions of all balls to make a set of coordinates. Make 3 iterations with updated ball positions every time a cluster of balls have been delivered to the goal.&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7c7KWl_TCWhdrHvQh6D_-11" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;Find positions of all balls to make a set of coordinates. Make 3 iterations with updated ball positions every time a cluster of balls have been delivered to the goal.&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="480" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7c7KWl_TCWhdrHvQh6D_-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7c7KWl_TCWhdrHvQh6D_-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ixo7VG__NAE8XxnjBKn-3" value="Robot position in world coordinates" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ixo7VG__NAE8XxnjBKn-5" value="Robot direction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ixo7VG__NAE8XxnjBKn-7" value="&lt;div&gt;Calculate the distance from the robot position to the nearest border. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="1195" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ixo7VG__NAE8XxnjBKn-8" value="&lt;div&gt;Returns the distance from the edges of the robot to the nearest border&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="1300" width="140" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
